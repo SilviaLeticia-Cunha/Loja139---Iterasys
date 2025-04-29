@@ -7,7 +7,7 @@ namespace SeleniumSimples
     using WebDriverManager;
     using WebDriverManager.DriverConfigs.Impl;
     using NUnit.Framework;
-    using NUnit.Framework.Legacy;
+    using NUnit.Framework.Legacy; //silvia
 
     // 3 - Classe
     [TestFixture] // Configura como uma classe de teste

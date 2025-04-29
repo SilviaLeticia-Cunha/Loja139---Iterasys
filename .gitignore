@@ -1,0 +1,21 @@
+# Pastas de build
+bin/
+obj/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de log e cache
+*.log
+*.cache
+
+# Arquivos temporários do usuário
+*.user
+*.suo
+
+# Arquivos CSV (se quiser evitar versionar dados de login ou massa de teste)
+# login.csv
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
